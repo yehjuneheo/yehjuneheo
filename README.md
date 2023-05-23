@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJS, MySQL**
 
-- 👨‍💻 All of my projects are available at [TBD](TBD)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://yehjuneheo.github.io)
 
 - 💬 Ask me about **React, Django**
 
