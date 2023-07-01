@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [3D Material Printing Cost Prediction](TBD)
 
-- 🌱 I’m currently learning **NodeJS, MySQL**
+- 🌱 I’m currently learning **Go, Rust, Next.js**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://yehjuneheo.github.io)
 
-- 💬 Ask me about **React, Django**
+- 💬 Ask me about **React.js, Django, MondoDB, Node.js**
 
 - 📫 How to reach me **yehjune111@gmail.com**
 
