@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React.js, Django, MondoDB, Node.js**
 
-- 📫 How to reach me **yehjune111@gmail.com**
+- 📫 How to reach me **heoyehjune@gmail.com**
 
 - 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1YrYxL-MjP_QYlE6bv7K786j36sTWhQOX/view)
 
