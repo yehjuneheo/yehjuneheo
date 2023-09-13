@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **heoyehjune@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1YrYxL-MjP_QYlE6bv7K786j36sTWhQOX/view)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1Qn6pFO3YHWQk5ppOB3Z9VN-ySs8jdYi_/view?usp=sharing)
 
 - ⚡ Fun fact **I do Calisthenics**
 
