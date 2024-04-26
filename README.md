@@ -7,19 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehjuneheo&label=Profile%20views&color=0e75b6&style=flat" alt="yehjuneheo" /> </p>
 
-- 🔭 I’m currently working on [3D Material Printing Cost Prediction](TBD)
+- 🔭 I’m currently working on [EarlyOn Meetings Inc.](https://earlyonmeetings.com)
 
-- 🌱 I’m currently learning **Go, Rust, Next.js**
+- 🌱 I’m currently learning **Go, Rust, NextJS**
 
-- 👨‍💻 All of my projects are available at [My Personal Website](https://yehjuneheo.github.io)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://yehjuneheo.com)
 
-- 💬 Ask me about **React.js, Django, MondoDB, Node.js**
+- 💬 Ask me about **AWS, Django, ReactJS, NodeJS, MondoDB**
 
 - 📫 How to reach me **heoyehjune@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1J_ex5raO-73cggiVwXGOEYxfwYGt4d9d/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1B_loEqtyK333sW86f1lfQQ-_HK5iaL9e/view)
 
-- ⚡ Fun fact **I do Calisthenics**
+- ⚡ Fun fact **I do calisthenics and play the piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
