@@ -1,9 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://yehjuneheo.io)
 
 <h1 align="center">Hello 👋, My Name is Yehjune Heo</h1>
-<h3 align="center">An Enthusiastic Software Engineer</h3>
-
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"/>
+<h3 align="center">An Enthus
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehjuneheo&label=Profile%20views&color=0e75b6&style=flat" alt="yehjuneheo" /> </p>
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **heoyehjune@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1B_loEqtyK333sW86f1lfQQ-_HK5iaL9e/view)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1U4y2J9RoVromQi_pYo3AgtxxG6Sr01nP/view?usp=sharing)
 
 - ⚡ Fun fact **I do calisthenics and play the piano**
 
