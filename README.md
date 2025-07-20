@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehjuneheo&label=Profile%20views&color=0e75b6&style=flat" alt="yehjuneheo" /> </p>
 
-- 🔭 I’m currently working on [EarlyOn Meetings Inc.](https://earlyonmeetings.com)
-
 - 🔭 I hold the [AWS Certified Solutions Architect - Professional Certification](https://drive.google.com/file/d/1De4TNRGv0IDSQfvMDs-gBt352dbMidLr/view?usp=sharing)
 
-- 🌱 I’m currently learning **Go, Rust, NextJS**
+- 🌱 I’m currently learning **Azure, GCP, and Salesforce**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://yehjuneheo.com)
 
-- 💬 Ask me about **AWS, Django, ReactJS, NodeJS, MondoDB**
+- 💬 Ask me about **Cloud, AWS, Azure, Django, ReactJS, NodeJS**
 
 - 📫 How to reach me **heoyehjune@gmail.com**
 
