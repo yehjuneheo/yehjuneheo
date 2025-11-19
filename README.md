@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **heoyehjune@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1j36TEHvjHfj9gLBPUdQfOmuLSr0FQVah/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1O6kKuyv4bYCM3V0VTlHPbopSxMiyLVIX/view?usp=sharing)
 
 - ⚡ Fun fact **I do calisthenics and play the piano**
 
